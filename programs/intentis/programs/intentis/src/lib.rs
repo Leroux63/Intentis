@@ -10,7 +10,7 @@ use instructions::*;
 declare_id!("8ny77Pdw2zuaszDw9LjQWp6CP5w1DiXEupGNkiKEiR5m");
 
 #[program]
-pub mod veil {
+pub mod intentis {
     use super::*;
 
     /// Create a new payment intent (hash only)

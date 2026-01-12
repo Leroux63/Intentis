@@ -1,0 +1,39 @@
+# =========================
+# Rust / Anchor / Solana
+# =========================
+target/
+**/target/
+.test-ledger/
+.deploy/
+.anchor/
+
+# =========================
+# Node / JS / TS
+# =========================
+node_modules/
+pnpm-lock.yaml
+package-lock.json
+yarn.lock
+
+# =========================
+# Env / Secrets
+# =========================
+.env
+.env.*
+!.env.example
+
+# =========================
+# OS / Editor
+# =========================
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# =========================
+# Logs
+# =========================
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+yarn-error.log*

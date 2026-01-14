@@ -2,3 +2,5 @@ packages:
   - "engine"
   - "sdk"
   - "frontend"
+  - "programs/*"
+  - "!engine/arcium/**"

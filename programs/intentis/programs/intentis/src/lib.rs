@@ -7,7 +7,7 @@ pub mod instructions;
 
 use instructions::*;
 
-declare_id!("8ny77Pdw2zuaszDw9LjQWp6CP5w1DiXEupGNkiKEiR5m");
+declare_id!("DD9vD79VgN3FbwSfpsxfB12ZRZeJtNYpeUT6FhJPZ315");
 
 #[program]
 pub mod intentis {
